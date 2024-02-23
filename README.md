@@ -1,4 +1,5 @@
 - 👋 Olá, me chamo Levi Morais;
+- 👨‍🎓 Graduando em Sistemas de Informação;
 - 👀 Apaixonado por aprender novas tecnologias e resolver problemas;
 - 🌱 Atualmente estou estudando e utilizando as tecnologias ReactJS, TypeScript, NextJS e React Dev Tools;
 
